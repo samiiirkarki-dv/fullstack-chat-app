@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <!-- Light Grey/Off-White Background Tile -->
+  <rect width="64" height="64" rx="14" fill="#F0F4F8"/>
+  
+  <!-- Solid messaging shape with sharp corners -->
+  <path d="M20 14C17.7909 14 16 15.7909 16 18V38C16 40.2091 17.7909 42 20 42H28L36 50V42H44C46.2091 42 48 40.2091 48 38V18C48 15.7909 46.2091 14 44 14H20Z" fill="#1E40AF"/>
+  
+  <!-- Clean Signal Bars -->
+  <rect x="23" y="22" width="4" height="12" rx="1" fill="#FFFFFF"/>
+  <rect x="30" y="26" width="4" height="8" rx="1" fill="#FFFFFF"/>
+  <rect x="37" y="30" width="4" height="4" rx="1" fill="#FFFFFF"/>
+</svg>
